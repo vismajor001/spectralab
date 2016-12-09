@@ -1,2 +1,2 @@
-# ReactPersonalPage
-Frank(Sida) Li personal web page using React JS 
+# spectralab
+spectralab web page using React JS 
